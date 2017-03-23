@@ -1,0 +1,41 @@
+body {
+    background: #e3eedb;
+    height: 100%;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    padding: 0;
+    color:#808080;
+
+}
+
+html {
+    margin: 0;
+     padding: 0;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    font-weight: 200;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    background: #e3eedb;
+    margin-top: 0;
+}
+
+
+.profile-image {
+    border-radius: 50%;
+    width:14em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2em;
+    border: 0.8em solid #ffffff;
+    -webkit-box-shadow: 0px 0px 33px 6px rgba(0,0,0,0.39);
+    -moz-box-shadow: 0px 0px 33px 6px rgba(0,0,0,0.39);
+    box-shadow: 0px 0px 33px 6px rgba(0,0,0,0.39);
+}
